@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:skyblue;
+}
+*{
+	margin:0;
+}
+.first{
+	background-color:black;
+	color:white;
+}
+p{
+	margin-top:10px;
+	margin-botto:m10px;
+}
+.second{
+	color:red;
+	maargin-top:10px;
+}
+.third{
+	display:bolck;
+}
+.white{
+	background-color:white;
+	padding:10px;
+	font-size:20px;
+	width:250px;
+}
+.grey{
+	background-color:slategray;
+	padding:10px;
+	font-size:15px;
+	width:250px;
+}
+.pink{
+	background-color:pink;
+	padding:10px;
+	font-size:10px;
+	width:250px;
+}
+
